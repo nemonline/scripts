@@ -1,4 +1,5 @@
 #!/bin/bash
+#adding one comment
 if [ $# -eq 0 ];
  then
                 echo "Script to distribute /etc/hosts"
