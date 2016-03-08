@@ -1,2 +1,1 @@
-# scripts
-test git repo
+Test git
