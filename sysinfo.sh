@@ -12,3 +12,4 @@ printf "System load:\t%s\tMemory usage:\t%s\n" $load $memory_usage
 printf "Usage on /:\t%s\tSwap usage:\t%s\n" $root_usage $swap_usage
 printf "Local users:\t%s\n" $users
 echo
+####
